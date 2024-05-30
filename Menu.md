@@ -12,6 +12,7 @@
 
 ## Makarony
 -**Penne Arabiata**: Sos pomidorowy, Pieczarki, Boczek - 29,00 zł
+-**Spaghetti Carbonara**: Śmietana, Boczek, Jajko - 33,00 zł
 
 
 ## Napoje
