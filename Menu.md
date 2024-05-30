@@ -28,3 +28,4 @@
 - **Piwo**: 10,00 zł
 - **Sok Pomarańczowy**: 7,00 zł
 - **Lemoniada**: 8,00 zł
+- **Kawa**: 6,00 zł
