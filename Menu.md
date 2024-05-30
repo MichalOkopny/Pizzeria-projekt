@@ -8,3 +8,4 @@
 ## Napoje
 - **Coca Cola**: 5,00 zł
 - **Woda**: 3,00 zł
+- **Piwo**: 10,00 zł
