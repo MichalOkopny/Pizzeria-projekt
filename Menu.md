@@ -17,6 +17,8 @@
 
 ## Sałatki
 - **Caprese**: Pomidory, Mozzarella, Bazyli - 20,00 zł
+- - **Grecka**: Sałata, Pomidory, Ogórki, Feta, Oliwki, Cebula, Papryka - 25,00 zł
+
 
 
 ## Napoje
