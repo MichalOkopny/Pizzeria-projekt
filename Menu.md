@@ -15,6 +15,9 @@
 - **Spaghetti Carbonara**: Śmietana, Boczek, Jajko - 33,00 zł
 - **Lasagne**: Mięso mielone, Sos pomidorowy, Béchamel - 35,00 zł
 
+## Sałatki
+- **Caprese**: Pomidory, Mozzarella, Bazyli - 20,00 zł
+
 
 ## Napoje
 - **Coca Cola**: 5,00 zł
