@@ -17,7 +17,8 @@
 
 ## Sałatki
 - **Caprese**: Pomidory, Mozzarella, Bazyli - 20,00 zł
-- - **Grecka**: Sałata, Pomidory, Ogórki, Feta, Oliwki, Cebula, Papryka - 25,00 zł
+- **Grecka**: Sałata, Pomidory, Ogórki, Feta, Oliwki, Cebula, Papryka - 25,00 zł
+- **Cezar**: Sałata, Kurczak, Parmezan, Krutony, Sos Cezar - 27,00 zł
 
 
 
