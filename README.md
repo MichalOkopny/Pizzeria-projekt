@@ -6,7 +6,7 @@ To repozytorium zawiera koncepcyjny projekt małej pizzerii. Projekt zawiera:
 - Opis miejsca
 - Dane kontaktowe
 - Szczegóły projektu wnętrza
-- Galerię
+- Galeria
 
 ## Gałęzie
 - `główna` - Główna gałąź zawierająca ostateczny projekt.
